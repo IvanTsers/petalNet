@@ -1,0 +1,10 @@
+Package: petal
+Type: Package
+Title: Construction of small-world scale-free networks and extraction of vicinity networks for vertcies of interest
+Version: 0.1.5
+Author: Juli Petereit
+Maintainer: Juli Petereit <julipetereit@gmail.com>
+Description: This package is primlary written for the life scientist, no prior network theory is requried to construct small-world sclae-free network models and extract groups of interest from it. It is primarly for expression data, but any data can be loaded.
+License: GPL-3
+LazyData: TRUE
+RoxygenNote: 5.0.1
